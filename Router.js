@@ -43,7 +43,7 @@ const Router = () => {
             options={{
               title: "",
               headerBackTitleVisible: false,
-              headerTransparent: false,
+              headerTransparent: true,
             }}
           />
         </Stack.Navigator>

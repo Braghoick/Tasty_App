@@ -128,13 +128,6 @@ const styles = StyleSheet.create({
     paddingHorizontal: 30,
     textTransform: "capitalize",
   },
-  poster: {
-    position: "absolute",
-    width: imageWidth,
-    height: imageHeight,
-    borderRadius: 16,
-    left: 20,
-  },
   secondaryContent: {
   },
   paragraph: {
